@@ -1,0 +1,13 @@
+https://machinelearningmastery.com/feature-selection-machine-learning-python/
+http://scikit-learn.org/stable/modules/feature_selection.html
+https://www.datasciencecentral.com/profiles/blogs/want-to-know-how-to-choose-machine-learning-algorithm
+https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+http://scikit-learn.org/stable/modules/cross_validation.html
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+http://scikit-learn.org/stable/modules/pipeline.html
+http://pandas.pydata.org/pandas-docs/stable/api.html
+https://seaborn.pydata.org/api.html
